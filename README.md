@@ -7,7 +7,6 @@ Data quality is important for any downstream users of the biodiversity data in t
 The scope of this task team includes:
 
 - Quality control (QC) criteria 
-- Fitness for use profiles
 - Align QC criteria with other data stakeholders/standards including:
 	- IODE (use of IODE primary flags)
 	- GBIF
@@ -19,7 +18,6 @@ The scope of this task team includes:
 The task team aims to: 
 
 - Establish a set of common QC criteria for OBIS data
-- Establish fitness for use profiles by developing use cases
 - Provide solutions/recommendations to data quality related issues
 
 The measures of success include:
@@ -31,5 +29,8 @@ The measures of success include:
 
 The best way to engage with this project is via its [Issue tracker](https://github.com/iobis/quality-taskteam/issues). 
 
+## Members
+
+The members of this project team is listed [here](https://oceanexpert.org/group/441)
 
 
