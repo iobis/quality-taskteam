@@ -33,7 +33,7 @@ The best way to engage with this project is via its [issue tracker](https://gith
 
 members | ORCID | roles/liaison
 --|--|--
-Yi-Ming Gan | [0000-0001-7087-2646](https://orcid.org/0000-0001-7087-2646) | Co-chair
+Yi-Ming Gan | [0000-0001-7087-2646](https://orcid.org/0000-0001-7087-2646) | Co-chair, Co-chair of [OBIS Grand Unified Data Model Project Team (GUMPT)](https://oceanexpert.org/group/482)
 Ruben Perez Perez | [0000-0003-0974-3401](https://orcid.org/0000-0003-0974-3401) | Co-chair
 Ward Appeltans | [0000-0002-3237-4547](https://orcid.org/0000-0002-3237-4547) | OBIS Secretariat
 Pieter Provoost | [0000-0002-4236-0384](https://orcid.org/0000-0002-4236-0384) | OBIS Secretariat
