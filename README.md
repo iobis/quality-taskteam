@@ -36,6 +36,7 @@ members | ORCID | roles/liaison
 Yi-Ming Gan | [0000-0001-7087-2646](https://orcid.org/0000-0001-7087-2646) | Co-chair, Co-chair of [OBIS Grand Unified Data Model Project Team (GUMPT)](https://oceanexpert.org/group/482)
 Ruben Perez Perez | [0000-0003-0974-3401](https://orcid.org/0000-0003-0974-3401) | Co-chair
 Ward Appeltans | [0000-0002-3237-4547](https://orcid.org/0000-0002-3237-4547) | OBIS Secretariat
+Pieter Provoost | [0000-0002-4236-0384](https://orcid.org/0000-0002-4236-0384) | OBIS Secretariat
 Elizabeth Lawrence | [0000-0002-5304-941X](https://orcid.org/0000-0002-5304-941X) | OBIS Secretariat, supporting OBIS Vocabulary Infrastructure Project Team 
 Serita Van Der Wal | [0000-0002-7426-8777](https://orcid.org/0000-0002-7426-8777) | OBIS Secretariat
 Abby Benson | [0000-0002-4391-107X](https://orcid.org/0000-0002-4391-107X) | Chair of [OBIS Grand Unified Data Model Project Team (GUMPT)](https://oceanexpert.org/group/482) 
