@@ -1,4 +1,4 @@
-# OBIS data quality task team
+# OBIS Data Quality Assessment and Enhancement Project Team (QCPT)
 
 ## Motivation and scope
 
